@@ -1,0 +1,24 @@
+{
+	"name": "swagger-dev-server",
+	"version": "0.0.2",
+	"description": "It's intended for development purposes, specifically for serving API documentation.",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/dhrubo020/devapi-doc-server"
+	},
+	"author": {
+		"name": "dhrubo",
+		"url": "https://www.linkedin.com/in/dnsdhrubo/"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start:doc": "node ./index.js"
+	},
+	"license": "MIT",
+	"dependencies": {
+		"browser-sync": "^3.0.2",
+		"net": "^1.0.2",
+		"dotenv": "^16.4.4"
+	}
+}

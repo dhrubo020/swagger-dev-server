@@ -1,0 +1,5 @@
+# browser sync for dev env
+API_PATH = api
+API_DOCUMENTATION_PORT = 3081
+API_SYNC_FILES = ./src/**/*.ts
+RELOAD_DELAY = 5000

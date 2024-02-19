@@ -1,0 +1,8 @@
+*.ts
+*.d.ts
+*.spec.js
+*.spec.ts
+node_modules/
+dist/example
+.env
+yarn.lock
