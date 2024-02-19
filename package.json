@@ -1,6 +1,6 @@
 {
 	"name": "swagger-dev-server",
-	"version": "0.0.2",
+	"version": "0.0.4",
 	"description": "It's intended for development purposes to hot reload swagger API documentation.",
 	"main": "index.js",
 	"repository": {
