@@ -1,11 +1,11 @@
 {
 	"name": "swagger-dev-server",
 	"version": "0.0.2",
-	"description": "It's intended for development purposes, specifically for serving API documentation.",
+	"description": "It's intended for development purposes to hot reload swagger API documentation.",
 	"main": "index.js",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/dhrubo020/devapi-doc-server"
+		"url": "https://github.com/dhrubo020/swagger-dev-server"
 	},
 	"author": {
 		"name": "dhrubo",
@@ -13,7 +13,7 @@
 	},
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
-		"start:doc": "node ./index.js"
+		"start": "node ./index.js"
 	},
 	"license": "MIT",
 	"dependencies": {
